@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/8z6g6spn30d41.jpg?auto=webp&s=a17eb5d6a142406b5705e71b1b7f3ecf23a37980)]
+![MasterHead](https://preview.redd.it/8z6g6spn30d41.jpg?auto=webp&s=a17eb5d6a142406b5705e71b1b7f3ecf23a37980)
 <h1 align="center">Hi 🙋🏽‍♂️, I'm Noel Giron</h1>
 <h3 align="center">currently learning how to program 👨🏽‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7f521208199138b79261bccf79a7ab07/tumblr_p0q4hqNEDI1vkiyrso1_400.gif">
